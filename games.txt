@@ -1,0 +1,391 @@
+// Adventure
+Young Sherlock - The Legacy of Doyle (J).rom
+Okami no Su (J).rom
+Wing Man 2 (J).rom
+Star Trap (J).rom
+Erika (J).rom
+Karuizawa (J).rom
+
+// Strategy
+Sangokushi (J).rom
+Poiny X Senryosakusen - Operation Thanksgiving (J).rom
+Helitank (J).rom
+Daiva Story 4 - Asura's Bloodfeud (J).rom
+Dawn Patrol (J).rom
+Spy vs Spy II - The Island Caper (E).rom
+
+// Action
+dooly.rom
+Batten Tanuki no Daibouken (J).rom
+American Truck (J).rom
+Keystone Kapers (J).rom
+Mr. Do's Wild Ride (J).rom
+Brother Adventure (K) (Unl).rom
+Roger Rubbish (E).rom
+J.P. Winkle (J).rom
+// Come On! Picot (J).rom
+Sinbad (J).rom
+Becky (J).rom
+Wonder Boy (J).rom
+Magical Tree (J).rom
+Hades no Monsho (J).rom
+Flicky (J).rom
+Ninja Jajamaru-kun (J).rom
+Comecocos (S).rom
+Doki Doki Penguin Land (J).rom
+Elevator Action (J).rom
+Mitsumega Toohru - Three-Eyed One Comes Here, The (J).rom
+Godzilla-kun (J).rom
+Fairy Land Story, The (J).rom
+Antarctic Adventure (E).rom
+Mobile Planet Suthirus - Approach from the Westgate (J).rom
+Issunhoushi No Donnamondai (J).rom
+Saurus Land (J).rom
+Haunted Boynight (J).rom
+Bank Panic (J).rom
+Buru To Marty Kikiippatsu - Inspecteur Z (J).rom
+City Connection (J).rom
+Championship Lode Runner (J).rom
+Lode Runner II (J).rom
+Mashou no Tachi Goblin (J).rom
+Ghostbusters (E).rom
+Super Drinker (J).rom
+Dorodon (J).rom
+Mugen Senshi Valis - The Fantasm Soldier (J).rom
+Hopper (E).rom
+Pegasus (J).rom
+Banana (J).rom
+Lode Runner (J).rom
+Strange Loop (J).rom
+Castle, The (J).rom
+Yellow Submarine (J).rom
+Bomber Man Special (J).rom
+Gun Fright (J).rom
+Spelunker (J).rom
+Eggerland Mystery (J).rom
+Sofia (J).rom
+Iga Ninpouten 2 - Small Ninja 2 (J).rom
+Pippols (J).rom
+Sewer Sam (J).rom
+Q-bert (J).rom
+Final Zone Wolf (J).rom
+Yokai Tanken Chimachima (J).rom
+Kung Fu Taigun (J).rom
+Fire Rescue (J).rom
+Penguin-kun Wars (J).rom
+Binary Land (J).rom
+Pipi (J).rom
+Thexder (J).rom
+Pooyan (J).rom
+Doordoor (J).rom
+Ninjakun Majou (J).rom
+Flappy - Limited 85 (J).rom
+Aqua Polis SOS (J).rom
+// Mappy (J).rom
+Warroid (J).rom
+Pac-Man (J).rom
+Super Tripper (S).rom
+Hustle! Chumy (J).rom
+Burgertime (J).rom
+Crusader (J).rom
+Mouser (J).rom
+Dig Dug (J).rom
+Bomber King (J).rom
+Knightmare - Majou Densetsu (J).rom
+Mr. Do vs Unicorns (J).rom
+Rambo (J).rom
+Senjo no Ookami (J).rom
+Demon Crystal, The (J).rom
+Goonies, The (J).rom
+Kinasai (J) (Unl).rom
+Comic Bakery (J).rom
+Green Beret (E).rom
+Castle Excellent (J).rom
+Antarctic Adventure (J).rom
+Blagger MSX (E) [converted from tape].rom
+Batman (J).rom
+Moon Patrol (J).rom
+Space Walk (E).rom
+Super Boy II (K) (Unl).rom
+Alibaba and 40 Thieves (J).rom
+M36 - A Life Planet (J).rom
+Ninjya Kage (J).rom
+Sparkie (J).rom
+Super Boy 3 (K) (Unl).rom
+Choplifter (J).rom
+Tensai Rabbian Daifunsen (J).rom
+Macross (J).rom
+Kage no Densetsu - Legend of Kage, The (J).rom
+Legendly Knight (K).rom
+Wonsiin (KR).rom
+Oil's Well (J).rom
+Penguin Adventure (JE).rom
+Knightmare II - The Maze of Galious (J).rom
+Indian no Bouken (J).rom
+Knightmare III - Shalom (J).rom
+
+// Board
+Jigsaw Set (J).rom
+Shougi Meijin (J).rom
+Shougi 2 (J).rom
+Gomok Narabe - Omo Go (J).rom
+Shogi Game (J).rom
+Shougi Sinan 1 (J).rom
+Konami's Mahjong (J).rom
+Jyankyo (J).rom
+Morita Kazuo no Othello (J).rom
+Shougi (J).rom
+Professional Mahjong (J).rom
+Hafanuda Koi Koi - Gostop Godori (J).rom
+Final Mahjong (J).rom
+Computer Othello (J).rom
+Gunjin Shogi Mars (J).rom
+Jissen - 4-nin Mahjong (J).rom
+Othello (J).rom
+Jyanyuu (J).rom
+
+// Fighting
+Protector, The (J).rom
+Yie Ar Kung-Fu (J).rom
+Yie Ar Kung-Fu II - The Emperor Yie-Gah (J).rom
+Police Story, The (J).rom
+Bruce Lee (J).rom
+Kung Fu Acho (J).rom
+
+// Racing
+Hang-On (J).rom
+Crazy Cars (E).rom
+Car Jamboree (J).rom
+TZR - Grand Prix Rider (J).rom
+Rally-X (J).rom
+GP World (J).rom
+A1 Spirit - The Way to Formula-1 (J).rom
+Coaster Race (J).rom
+Le Mans 2 (E).rom
+F-1 Spirit - The Way to Formula-1 (J).rom
+Hyper Rally (J).rom
+Road Fighter (J).rom
+
+// Shmups
+Battle Cross (J).rom
+Block Hole (K) (Unl).rom
+Zanac (J).rom
+Exa Innova (J).rom
+Zaxxon (J).rom
+D-Day (J).rom
+Gyrodine (J).rom
+Blockade Runner (J).rom
+Nemesis (JE).rom
+Beam Rider (J).rom
+Megalopolis SOS (J).rom
+Final Justice (J).rom
+Aquattack (J).rom
+Zanac (J) (v2).rom
+Raid on Bungeling Bay (J).rom
+Alpha Roid (J).rom
+Zoom 909 (J).rom
+Panther (J).rom
+Senjyo (J).rom
+1942 (J).rom
+Wrangler (S).rom
+Exerion (J).rom
+Zaider - Battle of Peguss (J).rom
+Star Blazer (J).rom
+Twin Bee (J).rom
+Zexas Limited (J).rom
+Mirai - Future (J).rom
+David II (J).rom
+River Raid (J).rom
+Juno First (J).rom
+Exoide-Z Area 5 (J).rom
+Volguard (J).rom
+Sea Hunter (E).rom
+Eagle Fighter (J).rom
+H.E.R.O. (J).rom
+Super Cross Force (E).rom
+Beach-Head (E).rom
+Scarlet 7 - The Mightiest Women (J).rom
+Super Laydock - Mission Striker (J).rom
+Anaza - Kaleidoscope Special (J).rom
+Nemesis 3 - The Eve of Destruction (JE).rom
+Sky Jaguar (J).rom
+Star Soldier (J).rom
+Sky Galdo (J).rom
+Formation Z (J).rom
+Galaga (J).rom
+// causes subtle bugs: Xevious Micro (1990) (Zemina) (K).rom
+Star Force (J).rom
+Fantasy Zone (J).rom
+Salamander (J).rom
+Cosmo-Explorer (J).rom
+Bosconian (J).rom
+Monster's Fair (J).rom
+Exerion II - Zorni (J).rom
+Topple Zip (J).rom
+Nemesis 2 (JE).rom
+Exoide-Z (J).rom
+Gulkave (J).rom
+Guardic (J).rom
+Parodius (J).rom
+Scion (J).rom
+Fuun Takeshijyou (J).rom
+King & Balloon (J).rom
+A.E. (J).rom
+Time Pilot (J).rom
+Alpha Squadron (J).rom
+Pay Load (J).rom
+Flight Deck (J).rom
+Space Camp (J).rom
+Flight Simulator (J).rom
+
+// Hentai
+Tensidachino Gogo (J).rom
+
+// FPS
+Wreck, The (E).rom
+Mole Mole 2 (J).rom
+
+// Sports
+Hudson 3D Golf (J).rom
+Lunar Ball (J).rom
+Konami's Boxing (J).rom
+Konami's Ping-Pong (J).rom
+Hyper Sports 1 (J).rom
+Arubatoros (1986) (Telenet) (J).rom
+Konami's Baseball (J).rom
+Albatros (J).rom
+Honkball (J).rom
+Play Ball (J).rom
+Hyper Olympic 2 (J).rom
+Champion Ice Hockey (J).rom
+Konami's Football (E).rom
+Nyannyan Pro Wrestling (J).rom
+Super Soccer (J).rom
+Champion Soccer (J).rom
+Attack Four Volley Ball (J).rom
+Challenge Derby (J).rom
+MSX Soccer (J).rom
+Hole in One Professional (J).rom
+// Syntax error: Futbol (S).rom
+Kinnikuman - Muscle Man (J).rom
+Track & Field 1 (E).rom
+Konami's Golf (J).rom
+Mini Golf (J).rom
+Champion Boxing (J).rom
+Champion Pro Wrestling (J).rom
+Konami's Tennis (J).rom
+Track & Field 2 (E).rom
+Casio Worldopen (J).rom
+Dunk Shot (J).rom
+10-Yard Fight (J).rom
+Professional Baseball (J).rom
+Swing (J).rom
+Hyper Sports 2 (J).rom
+Super Golf (J).rom
+Konami's Soccer (J).rom
+Hyper Olympic 1 (J).rom
+Champion Kendou (J).rom
+Hyper Sports 3 (J).rom
+Top Roller (J).rom
+
+// Xtra
+Hanafuta (J).rom
+Heist, The (J).rom
+Computer Nyuumon - Computer Lessons (J).rom
+Fandom Library #1 (J).rom
+Flics, Les (F).rom
+Daidasso (J).rom
+Traffic (J).rom
+Cabbage Patch Kids (J).rom
+Twin Hammer (E).rom
+Athletic Land (J).rom
+Kick It (J).rom
+Adven' Chuta! (J).rom
+Water Driver (J).rom
+Venus Fire (J).rom
+Bee & Flower (J).rom
+Dam Busters, The (J).rom
+Game Master (E).rom
+Laptick 2 (J).rom
+Fathom (J).rom
+Koneko no Daibouken - Catboy (J).rom
+Game Land (J).rom
+Shout Match (J).rom
+Midnight Brothers (J).rom
+B.C.'s Quest (J).rom
+Mokarimakka (J).rom
+Mopiranger (J).rom
+Fandom Library #2 (J).rom
+Chugaku Hisshu Eibunpo 1 (J).rom
+Devil's Heaven (J).rom
+Game Master (J).rom
+Grog's Revenge (J).rom
+Fandom Library #3 (J).rom
+
+// Puzzle_Card
+C-So! (J).rom
+Tetris (K) (Unl).rom
+Leonard (S).rom
+Moonsweeper (J).rom
+Drainer (J).rom
+Boulder Dash (J).rom
+Backgammon (E).rom
+Break In (J).rom
+King's Valley (JE).rom
+Boogie Woogi Jungle (J).rom
+// Columns (J).rom
+Gambler Jikochuushinha (J).rom
+Circus Charlie (J).rom
+Bubble Bobble (K) (Unl).rom
+Nyorols (J).rom
+Lot Lot (J).rom
+Master Chess (E).rom
+Super Columns (J).rom
+Pingball Maker (J).rom
+Trumpaid (J).rom
+Skooter (J).rom
+Snake It (E).rom
+Trick Boy (J).rom
+Dip Dip (S).rom
+Alien 8 (J).rom
+Arkanoid (J).rom
+Super Bubble Bobble (K) (Unl).rom
+King's Valley II (JE).rom
+Moai no Hibou (J).rom
+Monkey Academy (J).rom
+Pachi Com (J).rom
+Puzzle Panic (J).rom
+Jet Set Willy (J).rom
+Crazy Train (J).rom
+Chess (J).rom
+Fa Tetris (K) (Unl).rom
+Thunder Ball (J).rom
+Computer Pachinko (J).rom
+Back Gammon (J).rom
+Bouncing Block (S).rom
+
+// RPG
+Stone of Wisdom, The (J).rom
+Tower of Druaga, The (J).rom
+Digital Devil Monogatari Megami Tensei (J).rom
+Tritorn (J).rom
+Relics (J).rom
+Courageous Perseus (J).rom
+Dragon Slayer (J).rom
+Magical Kid Wiz (J).rom
+Psychic War - Cosmic Soldier 2 (J).rom
+Knight Lore (J).rom
+Hydlide 3 - The Space Memories (J).rom
+Thunderbolt (J).rom
+Dragon Slayer IV - Drasle Family (J).rom
+Aramo (J).rom
+Dragon Quest (J).rom
+Black Onyx, The (J).rom
+Haja No Fuin (J).rom
+Ninja Princess (J).rom
+Hydlide (J).rom
+Dungeon Master (J).rom
+Marchen Veil I (J).rom
+Tear of Nile (J).rom
+Night Shade (J).rom
+Dragon Quest II (J).rom
