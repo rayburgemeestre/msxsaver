@@ -1,8 +1,17 @@
-This project modified the MSX emulator written in go by Pere Negre (pnegre) called "gomsx" (https://github.com/pnegre/gomsx) into something that runs as one of XScreenSaver's programs.
+This project modified the MSX emulator written in go by Pere Negre (pnegre)
+called "gomsx" (https://github.com/pnegre/gomsx) into something that runs as
+one of XScreenSaver's programs.
 
-XScreenSaver (https://www.jwz.org/xscreensaver/) is AFAIK one of the oldest and most widespread screensaver daemons available on Linux. It contains all the logic regarding creating full screen windows on top of everything, making sure your session is locked and stuff like that. Which is why I decided to depend on it for this project.
+So all credits to him, my work is just a bunch of hacks on top of his emulator!
 
-One default I changed is that now the base system is running an MSX1 Panasonic CF-2700.
+XScreenSaver (https://www.jwz.org/xscreensaver/) is AFAIK one of the oldest and
+most widespread screensaver daemons available on Linux. It contains all the
+logic regarding creating Full Screen windows on top of everything, making sure
+your session is locked, handing multiple screens, etc. For these reasons I
+decided to depend on it for this project.
+
+One default I changed is that now the base system is running an MSX1 Panasonic
+CF-2700.
 
 ## Installing
 
@@ -10,7 +19,8 @@ Checkout this repository to `$HOME/.msxsaver`.
 
     git clone https://github.com/rayburgemeestre/msxsaver ~/.msxsaver
 
-Refer to the Compiling section for compiling gomsx yourself, the binary shipped is 64bit Linux.
+Refer to the Compiling section for compiling gomsx yourself, the binary shipped
+is 64bit Linux.
 
 You may need the following dependencies (packages may differ on your system)
 
@@ -22,7 +32,8 @@ Something for X11 might be needed.
 
 ## Configuring XScreenSaver
 
-First you need to have the xscreensaver daemon running. In my case I run the i3 window manager, so I have this line in my config:
+First you need to have the xscreensaver daemon running. In my case I run the i3
+window manager, so I have this line in my config:
 
     exec --no-startup-id xscreensaver -nosplash
 
@@ -34,9 +45,11 @@ The easiest way to add the gomsx screensaver is probably to run:
 
     xscreensaver-command -prefs
 
-And go to Display Modes -> Mode (select "Only One Screen Saver"). Set cycle after to `0`, since the screensaver cycles by itself every minute.
+And go to Display Modes -> Mode (select "Only One Screen Saver"). Set cycle
+after to `0`, since the screensaver cycles by itself every minute.
 
-Then close the dialog and edit `~/.xscreensaver`, the important section is `programs`:
+Then close the dialog and edit `~/.xscreensaver`, the important section is
+`programs`:
 
     programs:                                           \
       GL:               /home/trigen/.msxsaver/gomsx    \
@@ -44,7 +57,8 @@ Then close the dialog and edit `~/.xscreensaver`, the important section is `prog
 
 (Note that `$HOME` or `~/` doesn't work in this file.)
 
-Probably there are lots of other programs listed, but as long as they are commented out using the minus sign gomsx should be the only one launched.
+Probably there are lots of other programs listed, but as long as they are
+commented out using the minus sign gomsx should be the only one launched.
 
 For reference some other "key" settings IMO from my .xscreensaver file:
 
@@ -66,7 +80,7 @@ For reference some other "key" settings IMO from my .xscreensaver file:
 
 It is possible to curate your own preferred list of games by editing games.txt.
 They are organized per category.
-It was a hell of a job to filter out 218 games that didn't work.
+It was a hell of a job to filter out 218 games that didn't work :)
 
 ## Compiling `gomsx` manually
 
@@ -75,7 +89,8 @@ This is a bit strange for now, but for now these are the steps:
     go get github.com/pnegre/gogame
     go get github.com/pnegre/gomsx
 
-Then go to these directories and change them to my branch (I didn't test these commands, but I think they should work).
+Then go to these directories and change them to my branch (I didn't test these
+commands, but I think they should work).
 
     cd ~/go/github.com/pnegre/gogame
     git remote rename origin upstream
@@ -89,7 +104,7 @@ Then go to these directories and change them to my branch (I didn't test these c
     git fetch --all
     git checkout -b screensaver origin/screensaver
 
-I will aim to simplify this ASAP.
+I will aim to simplify this ASAP...
 
 Now you should be able to build it, in the gomsx directory run `go build`.
 
