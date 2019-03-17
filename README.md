@@ -1,11 +1,11 @@
 This project modified the MSX emulator written in go by Pere Negre (pnegre)
-called "gomsx" (https://github.com/pnegre/gomsx) into something that runs as
+called `gomsx` (https://github.com/pnegre/gomsx) into something that runs as
 one of XScreenSaver's programs.
 
 So all credits to him, my work is just a bunch of hacks on top of his emulator!
 
-Changes to gogame: https://github.com/pnegre/gogame/compare/master...rayburgemeestre:master
-Changes to gomsx: https://github.com/pnegre/gomsx/compare/master...rayburgemeestre:screensaver
+* Changes to `gogame`: https://github.com/pnegre/gogame/compare/master...rayburgemeestre:master
+* Changes to `gomsx`: https://github.com/pnegre/gomsx/compare/master...rayburgemeestre:screensaver
 
 XScreenSaver (https://www.jwz.org/xscreensaver/) is AFAIK one of the oldest and
 most widespread screensaver daemons available on Linux. It contains all the
