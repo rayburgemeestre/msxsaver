@@ -76,7 +76,10 @@ For reference some other "key" settings IMO from my .xscreensaver file:
 
 - `cf-2700_basic-bios1.rom` - MSX1 system
 - `games.txt` - List of games that I confirmed to work with this emulator.
-- `gomsx*` - The 64bit precompiled binary, should run on any 64bit Linux.
+- `gomsx*` - The 64bit precompiled binary, should run on at least Ubuntu 18.04
+  64bit Linux. If it does not run on your system, please compile it with
+  instructions in the Compiling section and replace the `gomsx` binary with the
+  one you compiled yourself.
 - `Monaco_Linux-Powerline.ttf` - Font I use for printing which rom is active.
 - `README.md` - This file
 - `roms/` - Directory that contains all the games referred to by `games.txt`
