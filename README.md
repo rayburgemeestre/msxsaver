@@ -24,11 +24,12 @@ is 64bit Linux.
 
 You may need the following dependencies (packages may differ on your system)
 
+    xscreensaver
     libsdl2-dev
     libsdl2-image-dev
     libsdl2-ttf-dev
 
-Something for X11 might be needed.
+(Something for X11 might be needed, but probably xscreensaver already pulled everything in.)
 
 ## Configuring XScreenSaver
 
@@ -53,9 +54,9 @@ Then close the dialog and edit `~/.xscreensaver`, the important section is
 
     programs:                                           \
       GL:               /home/trigen/.msxsaver/gomsx    \
-                      1>/tmp/msxsaver-debug.log 2>&1            \n\
+                      1>/tmp/msxsaver-debug.log 2>&1    \n\
 
-(Note that `$HOME` or `~/` doesn't work in this file.)
+Please note that `$HOME` or `~/` doesn't work in this file!
 
 Probably there are lots of other programs listed, but as long as they are
 commented out using the minus sign gomsx should be the only one launched.
