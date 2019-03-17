@@ -34,6 +34,15 @@ You may need the following dependencies (packages may differ on your system)
 
 (Something for X11 might be needed, but probably xscreensaver already pulled everything in.)
 
+Test if it works with:
+
+    cd ~/.msxsaver
+    ./gomsx
+
+No parameters are needed, use `CTRL`+`C` on the graphical window to exit. In
+case it doesn't work, you can check for hints by running `ldd gomsx`, some
+library may be missing.
+
 ## Configuring XScreenSaver
 
 First you need to have the xscreensaver daemon running. In my case I run the i3
