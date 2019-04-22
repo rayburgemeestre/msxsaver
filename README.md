@@ -114,27 +114,9 @@ It was a hell of a job to filter out 218 games that didn't work :)
 
 ## Compiling `gomsx` manually
 
-This is a bit strange for now, but for now these are the steps:
+    git submodule update --init --recursive
 
-    go get github.com/pnegre/gogame
-    go get github.com/pnegre/gomsx
-
-Then go to these directories and change them to my branch (I didn't test these
-commands, but I think they should work).
-
-    cd ~/go/github.com/pnegre/gogame
-    git remote rename origin upstream
-    git remote add origin https://github.com/rayburgemeestre/gogame
-    git fetch --all
-    git rebase origin/master
-
-    cd ~/go/github.com/pnegre/gomsx
-    git remote rename origin upstream
-    git remote add origin https://github.com/rayburgemeestre/gomsx
-    git fetch --all
-    git checkout -b screensaver origin/screensaver
-
-I will aim to simplify this ASAP...
-
-Now you should be able to build it, in the gomsx directory run `go build`.
+    cd gomsx
+    go build  # version that supports go mod is needed!
+    cp gomsx ../msxsaver
 
