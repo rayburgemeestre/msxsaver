@@ -16,7 +16,21 @@ decided to depend on it for this project.
 One default I changed is that now the base system is running an MSX1 Panasonic
 CF-2700.
 
-## Installing
+## Installation on Ubuntu
+
+The package should be available on all currently supported Ubuntu distributions.
+
+    sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 29CB5B50
+    sudo add-apt-repository "deb https://cppse.nl/apt/ $(lsb_release -cs) main"
+
+(The reason I'm not using a PPA is due to the fact that I create the package using FPM
+and this is currently not supported in combination with PPA's.)
+
+In case lsb-release or add-apt-repository is missing, install first:
+
+    apt install lsb-release software-properties-common
+
+## Installing from Source (deprecated)
 
 Checkout this repository to `$HOME/.msxsaver`.
 

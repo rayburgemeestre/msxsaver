@@ -1,0 +1,6 @@
+[submodule "gomsx"]
+	path = gomsx
+	url = git@github.com:rayburgemeestre/gomsx.git
+[submodule "gogame"]
+	path = gogame
+	url = git@github.com:rayburgemeestre/gogame.git
