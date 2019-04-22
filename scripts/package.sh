@@ -11,6 +11,5 @@ cp -prv softwaredb.xml             out/usr/share/msxsaver/
 cp -prv roms                       out/usr/share/msxsaver/
 cp -prv .xscreensaver              out/usr/share/msxsaver/
 
-cp -prv gomsx                      out/usr/local/bin/msxsaver
+cp -prv msxsaver                   out/usr/local/bin/msxsaver
 
-bash fpm.sh
