@@ -27,6 +27,10 @@ In case lsb-release or add-apt-repository is missing, install first:
 
     apt install lsb-release software-properties-common
 
+Then install tlhe package
+
+    sudo apt-get install msxsaver
+
 ## STEP 2: Configure XScreensaver
 
 In case you do not have a `.xscreensaver` file in your `$HOME` directory:
