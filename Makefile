@@ -36,5 +36,5 @@ archive:
 
 package:
 	rm -rf msxsaver_1.0_amd64.deb
-	mkdir out
-	docker run -v "$(pwd):$(pwd)" --workdir "$(pwd)" rayburgemeestre/fpm-ubuntu:18.04 fpm -s dir -t deb --depends xscreensaver --depends libsdl2-2.0-0 --depends libsdl2-image-2.0-0 --depends libsdl2-ttf-2.0-0 -n msxsaver --license MPL2 --maintainer "Ray Burgemeestre <ray@cppse.nl>" --description "MSXSaver - An MSX Game Intros Screensaver for XScreenSaver" --url "https://cppse.nl/msxsaver" --deb-generate-changes -C ./out
+	mkdir -p out
+	docker run -v "$$PWD:$$PWD" --workdir "$$PWD" rayburgemeestre/fpm-ubuntu:18.04 fpm -s dir -t deb --depends xscreensaver --depends libsdl2-2.0-0 --depends libsdl2-image-2.0-0 --depends libsdl2-ttf-2.0-0 -n msxsaver --license MPL2 --maintainer "Ray Burgemeestre <ray@cppse.nl>" --description "MSXSaver - An MSX Game Intros Screensaver for XScreenSaver" --url "https://cppse.nl/msxsaver" --deb-generate-changes -C ./out
