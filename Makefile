@@ -1,12 +1,12 @@
 
 build:
-	docker run -t -v $$PWD:$$PWD --workdir $$PWD rayburgemeestre/build-ubuntu:18.04 /bin/sh -c "make impl"
+	docker run -t -v $$PWD:$$PWD --workdir $$PWD rayburgemeestre/build-ubuntu:18.04 /bin/sh -c "make containerized-build"
+	make package
 
-impl:
+containerized-build:
 	make prepare
 	make gobuild
 	make archive
-	make package
 
 prepare:
 	apt-get update
