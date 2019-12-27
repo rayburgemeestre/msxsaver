@@ -1,6 +1,6 @@
 [submodule "gomsx"]
 	path = gomsx
-	url = git@github.com:rayburgemeestre/gomsx.git
+	url = https://github.com/rayburgemeestre/gomsx
 [submodule "gogame"]
 	path = gogame
-	url = git@github.com:rayburgemeestre/gogame.git
+	url = https://github.com/rayburgemeestre/gogame
